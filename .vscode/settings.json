@@ -12,6 +12,11 @@
         "initializer_list": "cpp",
         "regex": "cpp",
         "valarray": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "chrono": "cpp",
+        "random": "cpp",
+        "limits": "cpp",
+        "iomanip": "cpp",
+        "ratio": "cpp"
     }
 }
