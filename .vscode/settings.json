@@ -17,6 +17,7 @@
         "random": "cpp",
         "limits": "cpp",
         "iomanip": "cpp",
-        "ratio": "cpp"
+        "ratio": "cpp",
+        "new": "cpp"
     }
 }
